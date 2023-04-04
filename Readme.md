@@ -1,9 +1,19 @@
-# NativeBase Expo Template
+# iDiscovery
 
-The official NativeBase template for [Expo](https://docs.expo.io/)
+React native mobile app for use by people who participate in cultural and social activities.
+
+![alt text](assets/iDiscovery_Home.png)
 
 ## Usage
 
-```sh
-expo init my-app --template @native-base/expo-template
+- Clone the app
+- Make sure you have react native and expo installed on your machine
+- Install dependecies
 ```
+yarn install
+```
+- Run the application
+```
+expo start
+```
+
